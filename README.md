@@ -1,38 +1,11 @@
-#  Next Best Dev
+# Next Best Dev
 
+Next Best Dev is a SPA that will dynamically fetch data and color code our developers depending on their specialty
 
- ## _document.js file
- ```jsx
-import Document, { Head, Html, Main, NextScript } from 'next/document';
+## NAIT Project
 
-class MyDocument extends Document {
-  static async getInitialProps(context) {
-    const initialProps = await Document.getInitialProps(context);
-    return { ...initialProps };
-  }
+This project is being developed by Kiran Shrestha, a current student at NAIT
 
-  render() {
-    return (
-      <Html lang={this.props.locale}>
-        <Head>
-        </Head>
-        <body>
-          <Main />
-          <NextScript />
-        </body>
-      </Html>
-    );
-  }
-}
+# Intructions
 
-export default MyDocument;
-
- ```
-
- ## next.config.js
- ```
-i18n: {
-    locales: ['en'],
-    defaultLocale: 'en',
-  },
- ```# NextBestDev
+In the future, there will be a list of intructions on how to use this app
