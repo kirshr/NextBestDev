@@ -12,6 +12,7 @@ class MyDocument extends Document {
         <Head>
           <link rel="icon" href="DiCodeIgniter.svg" type="image/svg+xml" />
         </Head>
+
         <body>
           <Main />
           <NextScript />
