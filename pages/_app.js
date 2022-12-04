@@ -1,13 +1,11 @@
+import Head from "next/head";
 import DefaultLayout from "./../components/layouts/DefaultLayout";
 import "../styles/global.css";
 
 function MyApp({ Component, pageProps }) {
+  const getLayout = Component.getLayout || ((page) => page);
   return (
-    <>
-      <DefaultLayout>
-        <Component {...pageProps} />
-      </DefaultLayout>
-    </>
+    <DefaultLayout>{getLayout(<Component {...pageProps} />)}</DefaultLayout>
   );
 }
 

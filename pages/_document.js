@@ -13,7 +13,7 @@ class MyDocument extends Document {
           <link rel="icon" href="DiCodeIgniter.svg" type="image/svg+xml" />
         </Head>
 
-        <body>
+        <body className="bg-gradient-to-r from-gray-700 via-gray-900 to-black">
           <Main />
           <NextScript />
         </body>

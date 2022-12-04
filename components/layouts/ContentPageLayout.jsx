@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { ContentPageHeader } from "../headers";
-//import { NavBar } from "../navigation";
-export default function ContentPageLayout({ children, title, type, tagline}) {
+
+export default function ContentPageLayout({ children, title, type, tagline }) {
   return (
     <>
       <Head>
@@ -9,9 +9,11 @@ export default function ContentPageLayout({ children, title, type, tagline}) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      
+
       <ContentPageHeader tagline={tagline} type={type} title={title} />
-      <main>{children}</main>
+      <main className=" flex flex-row md:justify-center  flex-wrap justify-center sm:gap-2  lg:max-w-7xl mx-auto">
+        {children}
+      </main>
     </>
   );
 }
