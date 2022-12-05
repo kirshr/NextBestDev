@@ -26,7 +26,7 @@ function LoginPage() {
               <div>
                 <label
                   htmlFor="email"
-                  className="block text-sm font-medium text-amber-800"
+                  className="block text-sm font-medium text-indigo-700"
                 >
                   Email address
                 </label>
@@ -45,7 +45,7 @@ function LoginPage() {
               <div>
                 <label
                   htmlFor="password"
-                  className="block text-sm font-medium text-amber-800"
+                  className="block text-sm font-medium text-indigo-700"
                 >
                   Password
                 </label>
