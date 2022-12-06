@@ -12,6 +12,7 @@ function UiUxPage({ ui }) {
           jobTitle={dev.jobTitle}
           experience={dev.experience}
           availability={dev.availability}
+          uid={dev.uid}
         />
       ))}
     </>

@@ -12,6 +12,7 @@ function FrontEnd({ devs }) {
           jobTitle={dev.jobTitle}
           experience={dev.experience}
           availability={dev.availability}
+          uid={dev.uid}
         />
       ))}
     </>
