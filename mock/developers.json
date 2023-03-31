@@ -1,0 +1,752 @@
+[
+  {
+    "uid": "707b003e",
+    "fullName": "Rosemaria Sales",
+    "avatar": "https://randomuser.me/api/portraits/women/66.jpg",
+    "company": "Hoeger, Bogan and Rodriguez",
+    "availability": false,
+    "experience": 8,
+    "type": "ui ux",
+    "jobTitle": "Motion Designer"
+  },
+  {
+    "uid": "22be9467",
+    "fullName": "Lyman Boundey",
+    "avatar": "https://randomuser.me/api/portraits/men/89.jpg",
+    "company": "Maggio, Krajcik and Wunsch",
+    "availability": true,
+    "experience": 6,
+    "type": "front end",
+    "jobTitle": "Front End Dev Ops"
+  },
+  {
+    "uid": "28c59f4c",
+    "fullName": "Montague Peteri",
+    "avatar": "https://randomuser.me/api/portraits/men/7.jpg",
+    "company": "Hoppe Inc",
+    "availability": true,
+    "experience": 4,
+    "type": "front end",
+    "jobTitle": "SEO Content Specialist"
+  },
+  {
+    "uid": "daf3b18e",
+    "fullName": "Carlotta Breazeall",
+    "avatar": "https://randomuser.me/api/portraits/women/6.jpg",
+    "company": "Heaney Inc",
+    "availability": true,
+    "experience": 5,
+    "type": "full stack",
+    "jobTitle": "Web Application Archite"
+  },
+  {
+    "uid": "9de607e4",
+    "fullName": "Martynne Rainer",
+    "avatar": "https://randomuser.me/api/portraits/women/43.jpg",
+    "company": "Kilback-Leuschke",
+    "availability": true,
+    "experience": 2,
+    "type": "full stack",
+    "jobTitle": "Microservices Specialis"
+  },
+  {
+    "uid": "f8579c51",
+    "fullName": "Fran Ferris",
+    "avatar": "https://randomuser.me/api/portraits/men/9.jpg",
+    "company": "Ruecker-Corkery",
+    "availability": true,
+    "experience": 4,
+    "type": "ui ux",
+    "jobTitle": "Art Director"
+  },
+  {
+    "uid": "3cef88da",
+    "fullName": "Roby Melburg",
+    "avatar": "https://randomuser.me/api/portraits/women/87.jpg",
+    "company": "Kihn, McGlynn and Waelchi",
+    "availability": true,
+    "experience": 6,
+    "type": "back end",
+    "jobTitle": "SQL Developer"
+  },
+  {
+    "uid": "4d7b3f18",
+    "fullName": "Broderick Hedon",
+    "avatar": "https://randomuser.me/api/portraits/men/30.jpg",
+    "company": "Huels-Adams",
+    "availability": true,
+    "experience": 10,
+    "type": "ui ux",
+    "jobTitle": "Content Strategist"
+  },
+  {
+    "uid": "e9244273",
+    "fullName": "Anton Walcher",
+    "avatar": "https://randomuser.me/api/portraits/men/23.jpg",
+    "company": "Abbott and Sons",
+    "availability": true,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "Front End Accesibility Expert"
+  },
+  {
+    "uid": "871ae5fb",
+    "fullName": "Ree Ashbridge",
+    "avatar": "https://randomuser.me/api/portraits/women/88.jpg",
+    "company": "Purdy, Kozey and Hahn",
+    "availability": true,
+    "experience": 9,
+    "type": "full stack",
+    "jobTitle": "Software Engineer"
+  },
+  {
+    "uid": "a2a6bba6",
+    "fullName": "Sheffie Courtliff",
+    "avatar": "https://randomuser.me/api/portraits/men/18.jpg",
+    "company": "Hammes, Runolfsson and Turner",
+    "availability": true,
+    "experience": 4,
+    "type": "ui ux",
+    "jobTitle": "UX Strategist"
+  },
+  {
+    "uid": "afdf711f",
+    "fullName": "Rachael Spellesy",
+    "avatar": "https://randomuser.me/api/portraits/women/16.jpg",
+    "company": "Barton and Sons",
+    "availability": true,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "WordPress Developer"
+  },
+  {
+    "uid": "13695306",
+    "fullName": "Teddie Spacey",
+    "avatar": "https://randomuser.me/api/portraits/men/69.jpg",
+    "company": "Lakin-Hoppe",
+    "availability": true,
+    "experience": 7,
+    "type": "back end",
+    "jobTitle": "SAAS Stratagiest"
+  },
+  {
+    "uid": "294ed459",
+    "fullName": "Riane Goburn",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "company": "Waters, Balistreri and Langworth",
+    "availability": true,
+    "experience": 4,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "8667b60c",
+    "fullName": "Rayna Hedde",
+    "avatar": "https://randomuser.me/api/portraits/women/17.jpg",
+    "company": "Terry, Hodkiewicz and Gusikowski",
+    "availability": true,
+    "experience": 2,
+    "type": "full stack",
+    "jobTitle": "Dev Ops Engineer"
+  },
+  {
+    "uid": "c6035740",
+    "fullName": "Jdavie Farlane",
+    "avatar": "https://randomuser.me/api/portraits/men/40.jpg",
+    "company": "Armstrong Group",
+    "availability": false,
+    "experience": 9,
+    "type": "full stack",
+    "jobTitle": "Java Programmer"
+  },
+  {
+    "uid": "dceb4341",
+    "fullName": "Heindrick Thornham",
+    "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
+    "company": "Sipes, Predovic and Hettinger",
+    "availability": true,
+    "experience": 2,
+    "type": "full stack",
+    "jobTitle": "Web Application Archite"
+  },
+  {
+    "uid": "f12d1e46",
+    "fullName": "Dani McKerron",
+    "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+    "company": "Nitzsche Inc",
+    "availability": true,
+    "experience": 5,
+    "type": "ui ux",
+    "jobTitle": "Motion Designer"
+  },
+  {
+    "uid": "41051d19",
+    "fullName": "Cairistiona Rymer",
+    "avatar": "https://randomuser.me/api/portraits/women/75.jpg",
+    "company": "Ferry Group",
+    "availability": true,
+    "experience": 7,
+    "type": "full stack",
+    "jobTitle": "Cloud Services Engineer"
+  },
+  {
+    "uid": "cfdb1bee",
+    "fullName": "Mikol Moohan",
+    "avatar": "https://randomuser.me/api/portraits/men/93.jpg",
+    "company": "Dickens-Johnson",
+    "availability": true,
+    "experience": 7,
+    "type": "back end",
+    "jobTitle": "Cloud Platform Engineer"
+  },
+  {
+    "uid": "78c20554",
+    "fullName": "Burnaby Siveter",
+    "avatar": "https://randomuser.me/api/portraits/men/61.jpg",
+    "company": "Heidenreich Group",
+    "availability": true,
+    "experience": 5,
+    "type": "front end",
+    "jobTitle": "CSS/HTML Content Specialist"
+  },
+  {
+    "uid": "e27fc974",
+    "fullName": "Giles Sings",
+    "avatar": "https://randomuser.me/api/portraits/men/17.jpg",
+    "company": "Will-McDermott",
+    "availability": true,
+    "experience": 3,
+    "type": "back end",
+    "jobTitle": "SQL Developer"
+  },
+  {
+    "uid": "a2f452e5",
+    "fullName": "Matthiew Clardge",
+    "avatar": "https://randomuser.me/api/portraits/men/56.jpg",
+    "company": "Baumbach, Brown and Padberg",
+    "availability": true,
+    "experience": 8,
+    "type": "ui ux",
+    "jobTitle": "Content Strategist"
+  },
+  {
+    "uid": "081421fc",
+    "fullName": "Patsy Illyes",
+    "avatar": "https://randomuser.me/api/portraits/men/89.jpg",
+    "company": "Howe, McGlynn and Auer",
+    "availability": true,
+    "experience": 1,
+    "type": "full stack",
+    "jobTitle": "Microservices Specialis"
+  },
+  {
+    "uid": "28fa69a1",
+    "fullName": "Lexis Vamplers",
+    "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+    "company": "Hoeger-Spencer",
+    "availability": true,
+    "experience": 3,
+    "type": "front end",
+    "jobTitle": "Front End Accesibility Expert"
+  },
+  {
+    "uid": "34e34717",
+    "fullName": "Shandee Gaiger",
+    "avatar": "https://randomuser.me/api/portraits/women/75.jpg",
+    "company": "Runolfsdottir LLC",
+    "availability": true,
+    "experience": 10,
+    "type": "full stack",
+    "jobTitle": "Web Application Archite"
+  },
+  {
+    "uid": "5a849d27",
+    "fullName": "Demetra Marwick",
+    "avatar": "https://randomuser.me/api/portraits/women/55.jpg",
+    "company": "Klocko-Heathcote",
+    "availability": false,
+    "experience": 5,
+    "type": "ui ux",
+    "jobTitle": "Interactive Designer"
+  },
+  {
+    "uid": "7457983c",
+    "fullName": "Doyle Wickstead",
+    "avatar": "https://randomuser.me/api/portraits/men/69.jpg",
+    "company": "Connelly Group",
+    "availability": false,
+    "experience": 6,
+    "type": "full stack",
+    "jobTitle": "Dev Ops Engineer"
+  },
+  {
+    "uid": "6eb2a778",
+    "fullName": "Bendick Chippindale",
+    "avatar": "https://randomuser.me/api/portraits/men/50.jpg",
+    "company": "Kshlerin Group",
+    "availability": true,
+    "experience": 6,
+    "type": "back end",
+    "jobTitle": "Senoir postgreSQL Data Manager"
+  },
+  {
+    "uid": "44774dc2",
+    "fullName": "Dev Drieu",
+    "avatar": "https://randomuser.me/api/portraits/men/49.jpg",
+    "company": "Douglas-Murray",
+    "availability": true,
+    "experience": 2,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "64d365e4",
+    "fullName": "Courtnay Lope",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "company": "Toy LLC",
+    "availability": true,
+    "experience": 8,
+    "type": "ui ux",
+    "jobTitle": "UI Innovator"
+  },
+  {
+    "uid": "85c0a31f",
+    "fullName": "Priscella Bankes",
+    "avatar": "https://randomuser.me/api/portraits/women/49.jpg",
+    "company": "Harvey Group",
+    "availability": true,
+    "experience": 4,
+    "type": "back end",
+    "jobTitle": "Cloud Platform Engineer"
+  },
+  {
+    "uid": "686e8441",
+    "fullName": "Ania Gyurkovics",
+    "avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+    "company": "Weber Inc",
+    "availability": true,
+    "experience": 8,
+    "type": "ui ux",
+    "jobTitle": "UX Testing Designer"
+  },
+  {
+    "uid": "0a149326",
+    "fullName": "Mariska Creasy",
+    "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
+    "company": "Hartmann and Sons",
+    "availability": true,
+    "experience": 4,
+    "type": "full stack",
+    "jobTitle": "Dev Ops Engineer"
+  },
+  {
+    "uid": "f4de5423",
+    "fullName": "Kelcey Waszczykowski",
+    "avatar": "https://randomuser.me/api/portraits/women/61.jpg",
+    "company": "Hegmann-Walter",
+    "availability": true,
+    "experience": 3,
+    "type": "ui ux",
+    "jobTitle": "UX Testing Designer"
+  },
+  {
+    "uid": "a64953b1",
+    "fullName": "Suzette Stubbes",
+    "avatar": "https://randomuser.me/api/portraits/women/88.jpg",
+    "company": "Zieme Group",
+    "availability": false,
+    "experience": 3,
+    "type": "ui ux",
+    "jobTitle": "Art Director"
+  },
+  {
+    "uid": "494204c1",
+    "fullName": "Gaile Treppas",
+    "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+    "company": "Mueller and Sons",
+    "availability": false,
+    "experience": 9,
+    "type": "ui ux",
+    "jobTitle": "UI Graphic Designer"
+  },
+  {
+    "uid": "4a03d1f6",
+    "fullName": "Hoyt Midden",
+    "avatar": "https://randomuser.me/api/portraits/men/64.jpg",
+    "company": "Gibson-Reinger",
+    "availability": true,
+    "experience": 10,
+    "type": "front end",
+    "jobTitle": "Web Application Specialist"
+  },
+  {
+    "uid": "02169238",
+    "fullName": "Xenia Norheny",
+    "avatar": "https://randomuser.me/api/portraits/women/40.jpg",
+    "company": "Quigley Group",
+    "availability": true,
+    "experience": 4,
+    "type": "front end",
+    "jobTitle": "Front End Dev Ops"
+  },
+  {
+    "uid": "1f4a8f37",
+    "fullName": "Albrecht Seamon",
+    "avatar": "https://randomuser.me/api/portraits/men/66.jpg",
+    "company": "Kozey LLC",
+    "availability": false,
+    "experience": 4,
+    "type": "ui ux",
+    "jobTitle": "UX Researcher"
+  },
+  {
+    "uid": "d02daeb6",
+    "fullName": "Berna Nowakowski",
+    "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+    "company": "Corwin LLC",
+    "availability": true,
+    "experience": 7,
+    "type": "full stack",
+    "jobTitle": "Senoir Dev Ops Manager"
+  },
+  {
+    "uid": "8c2d45b2",
+    "fullName": "Teriann Vakhrushin",
+    "avatar": "https://randomuser.me/api/portraits/women/31.jpg",
+    "company": "Grant Group",
+    "availability": true,
+    "experience": 1,
+    "type": "ui ux",
+    "jobTitle": "Information Architect"
+  },
+  {
+    "uid": "0c10d8b4",
+    "fullName": "Lezley Lowdiane",
+    "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+    "company": "Williamson, Renner and Lockman",
+    "availability": true,
+    "experience": 9,
+    "type": "front end",
+    "jobTitle": "Shopify Developer"
+  },
+  {
+    "uid": "24912a9f",
+    "fullName": "Kimberli Grasser",
+    "avatar": "https://randomuser.me/api/portraits/women/97.jpg",
+    "company": "Hintz-Mante",
+    "availability": true,
+    "experience": 8,
+    "type": "full stack",
+    "jobTitle": "Java Programmer"
+  },
+  {
+    "uid": "02676424",
+    "fullName": "Mose Rickaert",
+    "avatar": "https://randomuser.me/api/portraits/men/74.jpg",
+    "company": "Thiel, Feil and Walsh",
+    "availability": false,
+    "experience": 5,
+    "type": "front end",
+    "jobTitle": "Front End Developer"
+  },
+  {
+    "uid": "fb42bb58",
+    "fullName": "Elle Balsom",
+    "avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+    "company": "Rogahn-Wolff",
+    "availability": true,
+    "experience": 10,
+    "type": "back end",
+    "jobTitle": "Platform Engineer"
+  },
+  {
+    "uid": "aa979dc3",
+    "fullName": "Barri Freddi",
+    "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+    "company": "Keebler Inc",
+    "availability": true,
+    "experience": 5,
+    "type": "ui ux",
+    "jobTitle": "Product Designer"
+  },
+  {
+    "uid": "f7f4e4e0",
+    "fullName": "Arabella Klaggeman",
+    "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "company": "Swift, Kunze and Hettinger",
+    "availability": true,
+    "experience": 5,
+    "type": "ui ux",
+    "jobTitle": "Content Specialist"
+  },
+  {
+    "uid": "1db92aa2",
+    "fullName": "Kristi Garlant",
+    "avatar": "https://randomuser.me/api/portraits/women/45.jpg",
+    "company": "Jast-Torphy",
+    "availability": true,
+    "experience": 3,
+    "type": "full stack",
+    "jobTitle": "Operations Development Engineer"
+  },
+  {
+    "uid": "ed430f03",
+    "fullName": "Johan Sopp",
+    "avatar": "https://randomuser.me/api/portraits/men/61.jpg",
+    "company": "Yost, Stroman and Marks",
+    "availability": false,
+    "experience": 1,
+    "type": "full stack",
+    "jobTitle": "Microservices Specialis"
+  },
+  {
+    "uid": "256ce6bb",
+    "fullName": "Judie Gapper",
+    "avatar": "https://randomuser.me/api/portraits/women/90.jpg",
+    "company": "Hauck Group",
+    "availability": true,
+    "experience": 5,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "8d2cb7e3",
+    "fullName": "Farly MacGarvey",
+    "avatar": "https://randomuser.me/api/portraits/men/66.jpg",
+    "company": "Orn-Stokes",
+    "availability": true,
+    "experience": 5,
+    "type": "ui ux",
+    "jobTitle": "Content Strategist"
+  },
+  {
+    "uid": "429afec1",
+    "fullName": "Vail McFadzean",
+    "avatar": "https://randomuser.me/api/portraits/men/70.jpg",
+    "company": "Jones, McGlynn and Christiansen",
+    "availability": true,
+    "experience": 2,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "9bc8ce78",
+    "fullName": "Janeva McCosh",
+    "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+    "company": "Mertz and Sons",
+    "availability": true,
+    "experience": 5,
+    "type": "back end",
+    "jobTitle": "Django Back End Developer"
+  },
+  {
+    "uid": "df705c24",
+    "fullName": "Florence Caras",
+    "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+    "company": "Kuhlman Group",
+    "availability": true,
+    "experience": 9,
+    "type": "ui ux",
+    "jobTitle": "UX Testing Designer"
+  },
+  {
+    "uid": "3a24b8cb",
+    "fullName": "Jakob O'Giany",
+    "avatar": "https://randomuser.me/api/portraits/men/48.jpg",
+    "company": "Bechtelar and Sons",
+    "availability": true,
+    "experience": 9,
+    "type": "front end",
+    "jobTitle": "WordPress Developer"
+  },
+  {
+    "uid": "67e2597b",
+    "fullName": "Wolf Brakewell",
+    "avatar": "https://randomuser.me/api/portraits/men/38.jpg",
+    "company": "O'Hara-Greenfelder",
+    "availability": true,
+    "experience": 2,
+    "type": "front end",
+    "jobTitle": "Web Application Engineer"
+  },
+  {
+    "uid": "2bdab57f",
+    "fullName": "Kellie Tussaine",
+    "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+    "company": "Wintheiser, Hahn and Littel",
+    "availability": true,
+    "experience": 7,
+    "type": "full stack",
+    "jobTitle": "Dev Ops Engineer"
+  },
+  {
+    "uid": "63f527af",
+    "fullName": "Gunar Bille",
+    "avatar": "https://randomuser.me/api/portraits/men/89.jpg",
+    "company": "Corwin LLC",
+    "availability": true,
+    "experience": 8,
+    "type": "back end",
+    "jobTitle": "Senoir postgreSQL Data Manager"
+  },
+  {
+    "uid": "c3942cec",
+    "fullName": "Nolie Digan",
+    "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+    "company": "Kirlin LLC",
+    "availability": true,
+    "experience": 6,
+    "type": "ui ux",
+    "jobTitle": "Product Manager"
+  },
+  {
+    "uid": "bcd762ba",
+    "fullName": "Horst Trethowan",
+    "avatar": "https://randomuser.me/api/portraits/men/30.jpg",
+    "company": "Feeney-Parker",
+    "availability": true,
+    "experience": 10,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "9b0990dd",
+    "fullName": "Douglas Botwood",
+    "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+    "company": "Mante, Hand and Lebsack",
+    "availability": true,
+    "experience": 5,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "c7ff3311",
+    "fullName": "Godwin Habben",
+    "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+    "company": "Runte-Lubowitz",
+    "availability": true,
+    "experience": 1,
+    "type": "back end",
+    "jobTitle": "Ruby On Rails Developer"
+  },
+  {
+    "uid": "9bf6e466",
+    "fullName": "Carlotta Agronski",
+    "avatar": "https://randomuser.me/api/portraits/women/39.jpg",
+    "company": "Lindgren LLC",
+    "availability": true,
+    "experience": 8,
+    "type": "front end",
+    "jobTitle": "Front End Developer"
+  },
+  {
+    "uid": "7591961c",
+    "fullName": "Olympe Blooman",
+    "avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+    "company": "Wisoky-Wilderman",
+    "availability": true,
+    "experience": 9,
+    "type": "front end",
+    "jobTitle": "CSS/HTML Content Specialist"
+  },
+  {
+    "uid": "5c9d23e8",
+    "fullName": "Sandro Munehay",
+    "avatar": "https://randomuser.me/api/portraits/men/82.jpg",
+    "company": "Greenholt LLC",
+    "availability": false,
+    "experience": 8,
+    "type": "full stack",
+    "jobTitle": "Cloud Services Engineer"
+  },
+  {
+    "uid": "d9bf4c69",
+    "fullName": "Kinnie Staton",
+    "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
+    "company": "Dare-Murray",
+    "availability": false,
+    "experience": 7,
+    "type": "front end",
+    "jobTitle": "Web Application Specialist"
+  },
+  {
+    "uid": "ae986ce5",
+    "fullName": "Agnese Adriani",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "company": "Wehner, Walker and Senger",
+    "availability": true,
+    "experience": 1,
+    "type": "back end",
+    "jobTitle": "Testing Specialist"
+  },
+  {
+    "uid": "9d30b492",
+    "fullName": "Jobi Rigate",
+    "avatar": "https://randomuser.me/api/portraits/women/42.jpg",
+    "company": "Harris, Wisozk and Green",
+    "availability": true,
+    "experience": 8,
+    "type": "front end",
+    "jobTitle": "Web Application Engineer"
+  },
+  {
+    "uid": "e8272467",
+    "fullName": "Barny Lanktree",
+    "avatar": "https://randomuser.me/api/portraits/men/94.jpg",
+    "company": "Cruickshank LLC",
+    "availability": true,
+    "experience": 7,
+    "type": "full stack",
+    "jobTitle": "Senoir Dev Ops Manager"
+  },
+  {
+    "uid": "caaa6f31",
+    "fullName": "Goddard Kharchinski",
+    "avatar": "https://randomuser.me/api/portraits/men/45.jpg",
+    "company": "Weissnat Inc",
+    "availability": true,
+    "experience": 9,
+    "type": "full stack",
+    "jobTitle": "Cloud Computing Specialist"
+  },
+  {
+    "uid": "46c9ff7a",
+    "fullName": "Blanche Housbie",
+    "avatar": "https://randomuser.me/api/portraits/women/37.jpg",
+    "company": "Franecki-Jacobi",
+    "availability": true,
+    "experience": 8,
+    "type": "full stack",
+    "jobTitle": "Operations Development Engineer"
+  },
+  {
+    "uid": "614eadbd",
+    "fullName": "Christa Mackilpatrick",
+    "avatar": "https://randomuser.me/api/portraits/women/67.jpg",
+    "company": "Nienow-Feeney",
+    "availability": true,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "Web Application Specialist"
+  },
+  {
+    "uid": "36878a35",
+    "fullName": "Pernell Vigneron",
+    "avatar": "https://randomuser.me/api/portraits/men/56.jpg",
+    "company": "Klocko-Krajcik",
+    "availability": true,
+    "experience": 9,
+    "type": "ui ux",
+    "jobTitle": "UI Innovator"
+  },
+  {
+    "uid": "e0d49969",
+    "fullName": "Sunny Akid",
+    "avatar": "https://randomuser.me/api/portraits/men/16.jpg",
+    "company": "Johnson-Kulas",
+    "availability": false,
+    "experience": 1,
+    "type": "full stack",
+    "jobTitle": "Microservices Specialis"
+  }
+]
