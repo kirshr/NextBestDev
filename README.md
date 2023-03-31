@@ -4,8 +4,6 @@ Next Best Dev is a SPA that will dynamically fetch data and color code our devel
 
 ## NAIT Project
 
-This project is being developed by Kiran Shrestha, a current student at NAIT
+This project was developed by Kiran Shrestha, as student at NAIT.
 
-# Intructions
-
-In the future, there will be a list of intructions on how to use this app
+NextBestDev is a SPA made using NextJs
